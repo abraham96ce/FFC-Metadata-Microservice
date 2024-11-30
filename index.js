@@ -1,4 +1,3 @@
-
 var express = require('express');// Importa el módulo 'express', un framework para construir aplicaciones web en Node.js.
 var cors = require('cors');// Importa el módulo 'cors' para habilitar Cross-Origin Resource Sharing, lo que permite solicitudes desde otros dominios.
 require('dotenv').config()// Carga las variables de entorno desde un archivo '.env' utilizando el módulo 'dotenv'.
